@@ -2,7 +2,7 @@ package class4;
 
 public class E3ElseIf {
     public static void main(String[] args) {
-        int day = 66;
+        int day = 7;
         /*int num=10;
         if (num>10) {
             System.out.println("lets party");
