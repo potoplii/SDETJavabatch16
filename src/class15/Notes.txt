@@ -1,0 +1,24 @@
+Methods:
+   in Java, a method is a block of code or a collection of statements that perform a specific task.
+   It is designed to perform a particular function or piece of logic within a program.
+   We can create a method and then call it multiple times from different parts of the program
+    rather than repeating the same block of code in multiple places.
+    Methods is Java returne types(output of a method) for example void,String ,int , char, etc.
+   They can also take parameters(input).parameters can be primitive and non-primitive
+   Body of the method can contain any logic like arrays,loops,switch,etc.
+
+Why we should use Methods?
+    1.Code re-usability
+    2.Organize the code
+    3.Changing code becomes easier
+=========================================================
+Types of variables w.r.t scope(coverage,reach,visibility and accesibiliry)
+There are three types of variables with respect to scope local,instance and static variables
+1.Local variables:
+   1.Local variables are created inside the block of codes they can only be accessedvwith that block
+   for example all the variables that create inside methods ,
+   if statements,switch case statements ,loops etc.
+2.Instance Variable
+Instance variable are created outside of any block of code like method,
+loop,if statement etc but they are inside a class.
+3.
